@@ -1,2 +1,3 @@
 # textsummarizer
-Learning NLP
+Learning NLP End-to-End implementation
+
